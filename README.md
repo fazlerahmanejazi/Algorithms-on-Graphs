@@ -1,2 +1,3 @@
 # Algorithms on Graphs
-Assignments for Algorithms on Graphs on Coursera 
+Assignments for **Algorithms on Graphs** on Coursera.
+
